@@ -17,7 +17,7 @@ bool hit = 0;
 //this is main
 int main()
 {
-	//this function so i get randomized numbers every time i run the programm
+	//this function so i get randomized numbers every time i run the program
 	srand(time(0));
 
     cpu_first_card();
